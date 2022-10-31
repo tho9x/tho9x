@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tho9x
+- 👋 Hi, I’m @tho9x, Android Developer at SmartOSC
 - 👀 I’m interested in Flutter & Android & Admob
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter Project, Android IAP
